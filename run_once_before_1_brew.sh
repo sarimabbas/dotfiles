@@ -7,16 +7,22 @@ brew "youtube-dl"
 brew "ffmpeg"
 brew "mas"
 
+cask 'airfoil'
 cask 'appcleaner'
 cask 'bartender'
+cask 'camo-studio'
 cask 'cleanshot'
 cask 'contexts'
 cask 'figma'
+cask 'forklift'
+cask 'gemini'
 cask 'github'
 cask 'google-chrome'
 cask 'iterm2'
 cask 'monitorcontrol'
+cask 'mullvadvpn'
 cask 'notion'
+cask 'numi'
 cask 'postman'
 cask 'qbittorrent'
 cask 'quicklook-json'
