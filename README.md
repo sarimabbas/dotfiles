@@ -2,7 +2,6 @@
 
 ```bash
 sh -c "$(curl -fsLS git.io/chezmoi)" -- init --apply sarimabbas
-``
 ```
 
 This will install chezmoi and initialize using this repo
