@@ -7,24 +7,28 @@ brew "youtube-dl"
 brew "ffmpeg"
 brew "mas"
 
-cask "notion"
-cask "spotify"
-cask "visual-studio-code"
+cask 'appcleaner'
+cask 'bartender'
+cask 'cleanshot'
+cask 'contexts'
+cask 'figma'
+cask 'github'
 cask 'google-chrome'
 cask 'iterm2'
-cask 'slack'
-cask 'postman'
-cask 'zoom'
-cask 'telegram'
-cask 'appcleaner'
-cask 'raycast'
-cask 'figma'
-cask 'vnc-viewer'
-cask 'raspberry-pi-imager'
-cask 'github'
 cask 'monitorcontrol'
-cask 'quicklook-json'
+cask 'notion'
+cask 'postman'
 cask 'qbittorrent'
+cask 'quicklook-json'
+cask 'raspberry-pi-imager'
+cask 'raycast'
+cask 'slack'
+cask 'soundsource'
+cask 'spotify'
+cask 'telegram'
+cask 'visual-studio-code'
+cask 'vnc-viewer'
+cask 'zoom'
 
 mas 'XCode', id: 497799835
 mas 'Things', id: 904280696
