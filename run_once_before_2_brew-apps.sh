@@ -4,10 +4,6 @@
 # find casks from https://formulae.brew.sh/analytics/cask-install/365d/
 brew bundle --no-lock --file=/dev/stdin <<EOF
 
-brew "youtube-dl"
-brew "ffmpeg"
-brew "mas"
-
 cask 'airfoil'
 cask 'appcleaner'
 cask 'bartender'

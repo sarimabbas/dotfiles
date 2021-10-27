@@ -16,4 +16,5 @@ nvm install --lts
 nvm install-latest-npm
 
 # install global node packages
-npm install -g yarn
+npm install -g yarn firebase-tools netlify-cli
+
