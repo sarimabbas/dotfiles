@@ -33,9 +33,4 @@ cask 'visual-studio-code'
 cask 'vnc-viewer'
 cask 'zoom'
 
-mas 'XCode', id: 497799835
-mas 'Things', id: 904280696
-mas 'Todoist', id: 585829637
-mas 'Slack', id: 803453959
-
 EOF
