@@ -1,0 +1,5 @@
+# https://github.com/SuperCuber/dotter/wiki/Setup-and-Configuration
+
+# package.variables or package.files
+[default.files]
+zshrc = "~/.zshrc"
