@@ -14,6 +14,7 @@ esac
 
 alias cat="bat"
 alias ls="eza -l"
+alias fuzz="fd -H"
 
 export JAVA_HOME=$(/usr/libexec/java_home)
 
