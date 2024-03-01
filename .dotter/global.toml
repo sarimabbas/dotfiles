@@ -2,4 +2,4 @@
 
 # package.variables or package.files
 [default.files]
-zshrc = "~/.zshrc"
+".zshrc" = "~/.zshrc"
