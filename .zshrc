@@ -20,10 +20,6 @@ export JAVA_HOME=$(/usr/libexec/java_home)
 
 export PATH="$PATH:$HOME/.local/bin"
 
-export PYENV_ROOT="$HOME/.pyenv"
-command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
 
 
 # bun completions
