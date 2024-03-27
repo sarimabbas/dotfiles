@@ -38,3 +38,5 @@ fpath=(~/.zsh $fpath)
 autoload -Uz compinit
 compinit -u
 
+
+eval "$(/opt/homebrew/bin/mise activate zsh)"
